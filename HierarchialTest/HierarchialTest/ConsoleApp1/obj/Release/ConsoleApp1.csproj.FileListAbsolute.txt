@@ -1,0 +1,14 @@
+D:\TestBed\HierarchialTest\ConsoleApp1\bin\Release\ConsoleApp1.exe.config
+D:\TestBed\HierarchialTest\ConsoleApp1\bin\Release\ConsoleApp1.exe
+D:\TestBed\HierarchialTest\ConsoleApp1\bin\Release\ConsoleApp1.pdb
+D:\TestBed\HierarchialTest\ConsoleApp1\obj\Release\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\TestBed\HierarchialTest\ConsoleApp1\obj\Release\ConsoleApp1.exe
+D:\TestBed\HierarchialTest\ConsoleApp1\obj\Release\ConsoleApp1.pdb
+D:\TestBed\HierarchialTest\ConsoleApp1\obj\Release\ConsoleApp1.csprojResolveAssemblyReference.cache
+D:\HierarchialTest\HierarchialTest\ConsoleApp1\bin\Release\ConsoleApp1.exe.config
+D:\HierarchialTest\HierarchialTest\ConsoleApp1\bin\Release\ConsoleApp1.exe
+D:\HierarchialTest\HierarchialTest\ConsoleApp1\bin\Release\ConsoleApp1.pdb
+D:\HierarchialTest\HierarchialTest\ConsoleApp1\obj\Release\ConsoleApp1.csprojAssemblyReference.cache
+D:\HierarchialTest\HierarchialTest\ConsoleApp1\obj\Release\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\HierarchialTest\HierarchialTest\ConsoleApp1\obj\Release\ConsoleApp1.exe
+D:\HierarchialTest\HierarchialTest\ConsoleApp1\obj\Release\ConsoleApp1.pdb
