@@ -1,0 +1,5 @@
+<testsuite name="Mocha Tests" tests="3" failures="0" errors="0" skipped="0" timestamp="2018-07-28T20:28:46" time="0.503">
+<testcase classname="unitTest" name="index should return 200" time="0.44"/>
+<testcase classname="unitTest" name="about should return 200" time="0.015"/>
+<testcase classname="unitTest" name="contact should return 200" time="0.016"/>
+</testsuite>

@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="8cc73c2d-37ba-4211-a83f-ecd4bbfc5698" name="pagangil@PAGANGIL-PC 2018-01-22 18:24:17" runUser="FAREAST\pagangil" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2018-01-22T18:24:17.3981360+05:30" queuing="2018-01-22T18:24:17.3981360+05:30" start="2018-01-22T18:24:16.4393645+05:30" finish="2018-01-22T18:24:17.4606410+05:30" />
+  <TestSettings name="default" id="d0f6c013-258b-4ceb-a94c-006cd6a195f7">
+    <Execution>
+      <TestTypeSpecific />
+    </Execution>
+    <Deployment runDeploymentRoot="pagangil_PAGANGIL-PC 2018-01-22 18_24_17" />
+    <Properties />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="1752b0fe-38ba-4cec-a3dd-36ed92f10ee0" testId="b3f9e4f5-4542-59ad-bafd-28fb288bae8c" testName="TestMethod1" computerName="PAGANGIL-PC" duration="00:00:00.0052465" startTime="2018-01-22T18:24:17.2321981+05:30" endTime="2018-01-22T18:24:17.2837938+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1752b0fe-38ba-4cec-a3dd-36ed92f10ee0" />
+    <UnitTestResult executionId="f78cb001-3f79-4d4f-8da0-355d42a03b7a" testId="dea26b6f-64aa-a368-761d-0d3f439a35b1" testName="TestMethod2" computerName="PAGANGIL-PC" duration="00:00:00.0000727" startTime="2018-01-22T18:24:17.2837938+05:30" endTime="2018-01-22T18:24:17.2837938+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f78cb001-3f79-4d4f-8da0-355d42a03b7a" />
+    <UnitTestResult executionId="adcce9a6-fc32-4a04-a5ea-9e139dbba201" testId="13e5fa8f-d390-6c09-c624-f9b126ade2e8" testName="TestMethod3" computerName="PAGANGIL-PC" duration="00:00:00.0000706" startTime="2018-01-22T18:24:17.2994296+05:30" endTime="2018-01-22T18:24:17.2994296+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="adcce9a6-fc32-4a04-a5ea-9e139dbba201" />
+    <UnitTestResult executionId="1150af45-dec0-4c4e-b61f-3287cf68f7e1" testId="d084e7dd-3f60-7830-7192-ae54c2c6c3b0" testName="TestMethod4" computerName="PAGANGIL-PC" duration="00:00:00.0251985" startTime="2018-01-22T18:24:17.2994296+05:30" endTime="2018-01-22T18:24:17.3150572+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1150af45-dec0-4c4e-b61f-3287cf68f7e1">
+      <Output>
+	  <StdOut>
+	  standard output message
+	  </StdOut>
+        <ErrorInfo>
+          <Message>Assert.IsTrue failed. </Message>
+          <StackTrace>   at UnitTestProject6.UnitTest1.TestMethod4() in D:\vsts-agent-pagangil\_layout\_work\8\s\UnitTestProject6\UnitTest1.cs:line 27
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="a7a25254-51ed-46fe-8844-928f3fce65e0" testId="fc1e643e-4ba2-518d-8e8c-4ac01b523c7a" testName="TestMethod5" computerName="PAGANGIL-PC" duration="00:00:00.0011246" startTime="2018-01-22T18:24:17.3150572+05:30" endTime="2018-01-22T18:24:17.3150572+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a7a25254-51ed-46fe-8844-928f3fce65e0">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.Inconclusive failed. </Message>
+          <StackTrace>   at UnitTestProject6.UnitTest1.TestMethod5() in D:\vsts-agent-pagangil\_layout\_work\8\s\UnitTestProject6\UnitTest1.cs:line 32
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="1de67fde-6ebe-493d-ad96-1ac21b07ee52" testId="90df1880-b00e-4c8e-a8f7-9941a2289153" testName="TestMethod6" computerName="PAGANGIL-PC" duration="00:00:00.0010905" startTime="2018-01-22T18:24:17.3150572+05:30" endTime="2018-01-22T18:24:17.3150572+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1de67fde-6ebe-493d-ad96-1ac21b07ee52">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.IsTrue failed. </Message>
+          <StackTrace>   at UnitTestProject6.UnitTest1.TestMethod6() in D:\vsts-agent-pagangil\_layout\_work\8\s\UnitTestProject6\UnitTest1.cs:line 37
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="ddd8eefb-b991-495e-a754-5b6d6e1d2650" testId="db852df1-0bf9-6f31-d722-b978d015df96" testName="TestMethod7" computerName="PAGANGIL-PC" duration="00:00:00.0000741" startTime="2018-01-22T18:24:17.3150572+05:30" endTime="2018-01-22T18:24:17.3150572+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ddd8eefb-b991-495e-a754-5b6d6e1d2650" />
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="TestMethod1" storage="d:\vsts-agent-pagangil\_layout\_work\8\s\unittestproject6\bin\release\unittestproject6.dll" id="b3f9e4f5-4542-59ad-bafd-28fb288bae8c">
+      <Execution id="1752b0fe-38ba-4cec-a3dd-36ed92f10ee0" />
+      <TestMethod codeBase="D:\vsts-agent-pagangil\_layout\_work\8\s\UnitTestProject6\bin\Release\UnitTestProject6.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter" className="UnitTestProject6.UnitTest1" name="TestMethod1" />
+    </UnitTest>
+    <UnitTest name="TestMethod2" storage="d:\vsts-agent-pagangil\_layout\_work\8\s\unittestproject6\bin\release\unittestproject6.dll" id="dea26b6f-64aa-a368-761d-0d3f439a35b1">
+      <Execution id="f78cb001-3f79-4d4f-8da0-355d42a03b7a" />
+      <TestMethod codeBase="D:\vsts-agent-pagangil\_layout\_work\8\s\UnitTestProject6\bin\Release\UnitTestProject6.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter" className="UnitTestProject6.UnitTest1" name="TestMethod2" />
+    </UnitTest>
+    <UnitTest name="TestMethod3" storage="d:\vsts-agent-pagangil\_layout\_work\8\s\unittestproject6\bin\release\unittestproject6.dll" id="13e5fa8f-d390-6c09-c624-f9b126ade2e8">
+      <Execution id="adcce9a6-fc32-4a04-a5ea-9e139dbba201" />
+      <TestMethod codeBase="D:\vsts-agent-pagangil\_layout\_work\8\s\UnitTestProject6\bin\Release\UnitTestProject6.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter" className="UnitTestProject6.UnitTest1" name="TestMethod3" />
+    </UnitTest>
+    <UnitTest name="TestMethod4" storage="d:\vsts-agent-pagangil\_layout\_work\8\s\unittestproject6\bin\release\unittestproject6.dll" id="d084e7dd-3f60-7830-7192-ae54c2c6c3b0">
+      <Execution id="1150af45-dec0-4c4e-b61f-3287cf68f7e1" />
+      <TestMethod codeBase="D:\vsts-agent-pagangil\_layout\_work\8\s\UnitTestProject6\bin\Release\UnitTestProject6.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter" className="UnitTestProject6.UnitTest1" name="TestMethod4" />
+    </UnitTest>
+    <UnitTest name="TestMethod5" storage="d:\vsts-agent-pagangil\_layout\_work\8\s\unittestproject6\bin\release\unittestproject6.dll" id="fc1e643e-4ba2-518d-8e8c-4ac01b523c7a">
+      <Execution id="a7a25254-51ed-46fe-8844-928f3fce65e0" />
+      <TestMethod codeBase="D:\vsts-agent-pagangil\_layout\_work\8\s\UnitTestProject6\bin\Release\UnitTestProject6.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter" className="UnitTestProject6.UnitTest1" name="TestMethod5" />
+    </UnitTest>
+    <UnitTest name="TestMethod6" storage="d:\vsts-agent-pagangil\_layout\_work\8\s\unittestproject6\bin\release\unittestproject6.dll" id="90df1880-b00e-4c8e-a8f7-9941a2289153">
+      <Execution id="1de67fde-6ebe-493d-ad96-1ac21b07ee52" />
+      <TestMethod codeBase="D:\vsts-agent-pagangil\_layout\_work\8\s\UnitTestProject6\bin\Release\UnitTestProject6.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter" className="UnitTestProject6.UnitTest1" name="TestMethod6" />
+    </UnitTest>
+    <UnitTest name="TestMethod7" storage="d:\vsts-agent-pagangil\_layout\_work\8\s\unittestproject6\bin\release\unittestproject6.dll" id="db852df1-0bf9-6f31-d722-b978d015df96">
+      <Execution id="ddd8eefb-b991-495e-a754-5b6d6e1d2650" />
+      <TestMethod codeBase="D:\vsts-agent-pagangil\_layout\_work\8\s\UnitTestProject6\bin\Release\UnitTestProject6.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter" className="UnitTestProject6.UnitTest1" name="TestMethod7" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="b3f9e4f5-4542-59ad-bafd-28fb288bae8c" executionId="1752b0fe-38ba-4cec-a3dd-36ed92f10ee0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="dea26b6f-64aa-a368-761d-0d3f439a35b1" executionId="f78cb001-3f79-4d4f-8da0-355d42a03b7a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="13e5fa8f-d390-6c09-c624-f9b126ade2e8" executionId="adcce9a6-fc32-4a04-a5ea-9e139dbba201" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d084e7dd-3f60-7830-7192-ae54c2c6c3b0" executionId="1150af45-dec0-4c4e-b61f-3287cf68f7e1" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="fc1e643e-4ba2-518d-8e8c-4ac01b523c7a" executionId="a7a25254-51ed-46fe-8844-928f3fce65e0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="90df1880-b00e-4c8e-a8f7-9941a2289153" executionId="1de67fde-6ebe-493d-ad96-1ac21b07ee52" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="db852df1-0bf9-6f31-d722-b978d015df96" executionId="ddd8eefb-b991-495e-a754-5b6d6e1d2650" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Failed">
+    <Counters total="7" executed="6" passed="4" failed="2" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <Output>
+      <StdOut>Test 'TestMethod5' was skipped in the test run.</StdOut>
+    </Output>
+    <RunInfos>
+      <RunInfo computerName="PAGANGIL-PC" outcome="Warning" timestamp="2018-01-22T18:24:16.9096410+05:30">
+        <Text>Input string was not in a correct format.</Text>
+      </RunInfo>
+      <RunInfo computerName="PAGANGIL-PC" outcome="Warning" timestamp="2018-01-22T18:24:16.9324392+05:30">
+        <Text>Input string was not in a correct format.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+</TestRun>
