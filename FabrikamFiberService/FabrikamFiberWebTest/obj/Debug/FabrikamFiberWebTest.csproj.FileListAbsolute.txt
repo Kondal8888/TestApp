@@ -1,0 +1,6 @@
+C:\Users\v-kobatt\Source\Repos\TestApp\FabrikamFiberService\FabrikamFiberWebTest\bin\Debug\FabrikamFiberWebTest.dll
+C:\Users\v-kobatt\Source\Repos\TestApp\FabrikamFiberService\FabrikamFiberWebTest\bin\Debug\FabrikamFiberWebTest.pdb
+C:\Users\v-kobatt\Source\Repos\TestApp\FabrikamFiberService\FabrikamFiberWebTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\v-kobatt\Source\Repos\TestApp\FabrikamFiberService\FabrikamFiberWebTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\v-kobatt\Source\Repos\TestApp\FabrikamFiberService\FabrikamFiberWebTest\obj\Debug\FabrikamFiberWebTest.dll
+C:\Users\v-kobatt\Source\Repos\TestApp\FabrikamFiberService\FabrikamFiberWebTest\obj\Debug\FabrikamFiberWebTest.pdb
