@@ -18,6 +18,7 @@ D:\TestBed\HierarchialTest\CodedUITestProject17\obj\Release\CodedUITestProject17
 D:\TestBed\HierarchialTest\CodedUITestProject17\obj\Release\CodedUITestProject17.dll
 D:\TestBed\HierarchialTest\CodedUITestProject17\obj\Release\CodedUITestProject17.pdb
 D:\TestBed\HierarchialTest\CodedUITestProject17\obj\Release\CodedUITestProject17.csprojResolveAssemblyReference.cache
+D:\HierarchialTest\HierarchialTest\CodedUITestProject17\obj\Release\CodedUITestProject17.csproj.CoreCompileInputs.cache
 D:\HierarchialTest\HierarchialTest\CodedUITestProject17\bin\Release\data1.csv
 D:\HierarchialTest\HierarchialTest\CodedUITestProject17\bin\Release\GenericTest1.GenericTest
 D:\HierarchialTest\HierarchialTest\CodedUITestProject17\bin\Release\OrderedTest1.orderedtest
@@ -25,6 +26,5 @@ D:\HierarchialTest\HierarchialTest\CodedUITestProject17\bin\Release\OrderedTest2
 D:\HierarchialTest\HierarchialTest\CodedUITestProject17\bin\Release\CodedUITestProject17.dll
 D:\HierarchialTest\HierarchialTest\CodedUITestProject17\bin\Release\CodedUITestProject17.pdb
 D:\HierarchialTest\HierarchialTest\CodedUITestProject17\obj\Release\CodedUITestProject17.csprojAssemblyReference.cache
-D:\HierarchialTest\HierarchialTest\CodedUITestProject17\obj\Release\CodedUITestProject17.csproj.CoreCompileInputs.cache
 D:\HierarchialTest\HierarchialTest\CodedUITestProject17\obj\Release\CodedUITestProject17.dll
 D:\HierarchialTest\HierarchialTest\CodedUITestProject17\obj\Release\CodedUITestProject17.pdb

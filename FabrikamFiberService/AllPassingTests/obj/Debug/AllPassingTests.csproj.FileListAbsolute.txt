@@ -1,6 +1,7 @@
 C:\Users\v-kobatt\Source\Repos\TestApp\FabrikamFiberService\AllPassingTests\bin\Debug\AllPassingTests.dll
 C:\Users\v-kobatt\Source\Repos\TestApp\FabrikamFiberService\AllPassingTests\bin\Debug\AllPassingTests.pdb
 C:\Users\v-kobatt\Source\Repos\TestApp\FabrikamFiberService\AllPassingTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-C:\Users\v-kobatt\Source\Repos\TestApp\FabrikamFiberService\AllPassingTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
 C:\Users\v-kobatt\Source\Repos\TestApp\FabrikamFiberService\AllPassingTests\obj\Debug\AllPassingTests.dll
 C:\Users\v-kobatt\Source\Repos\TestApp\FabrikamFiberService\AllPassingTests\obj\Debug\AllPassingTests.pdb
+C:\Users\v-kobatt\Source\Repos\TestApp\FabrikamFiberService\AllPassingTests\obj\Debug\AllPassingTests.csprojResolveAssemblyReference.cache
+C:\Users\v-kobatt\Source\Repos\TestApp\FabrikamFiberService\AllPassingTests\obj\Debug\AllPassingTests.csproj.CoreCompileInputs.cache

@@ -7,11 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodedUITestProject17", "Cod
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{E4484BB5-2A39-4D59-8E12-A99DD3F34432}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F1253ADE-31EC-4BE6-BA2A-6BB322FFA610}"
-	ProjectSection(SolutionItems) = preProject
-		RunSettings1.runsettings = RunSettings1.runsettings
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -32,17 +27,5 @@ Global
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6261026E-95EC-4CB0-A3E7-497A289FEA1D}
-	EndGlobalSection
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 3
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = http://v-kon:8080/tfs/atdt%20bugbash
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = CodedUITestProject17\\CodedUITestProject17.csproj
-		SccProjectName1 = CodedUITestProject17
-		SccLocalPath1 = CodedUITestProject17
-		SccProjectUniqueName2 = ConsoleApp1\\ConsoleApp1.csproj
-		SccProjectName2 = ConsoleApp1
-		SccLocalPath2 = ConsoleApp1
 	EndGlobalSection
 EndGlobal

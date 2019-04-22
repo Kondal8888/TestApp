@@ -1,6 +1,7 @@
 C:\Users\v-kobatt\Source\Repos\TestApp\FabrikamFiberService\FabrikamFiberMobileTest\bin\Debug\FabrikamFiberMobileTest.dll
 C:\Users\v-kobatt\Source\Repos\TestApp\FabrikamFiberService\FabrikamFiberMobileTest\bin\Debug\FabrikamFiberMobileTest.pdb
 C:\Users\v-kobatt\Source\Repos\TestApp\FabrikamFiberService\FabrikamFiberMobileTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-C:\Users\v-kobatt\Source\Repos\TestApp\FabrikamFiberService\FabrikamFiberMobileTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
 C:\Users\v-kobatt\Source\Repos\TestApp\FabrikamFiberService\FabrikamFiberMobileTest\obj\Debug\FabrikamFiberMobileTest.dll
 C:\Users\v-kobatt\Source\Repos\TestApp\FabrikamFiberService\FabrikamFiberMobileTest\obj\Debug\FabrikamFiberMobileTest.pdb
+C:\Users\v-kobatt\Source\Repos\TestApp\FabrikamFiberService\FabrikamFiberMobileTest\obj\Debug\FabrikamFiberMobileTest.csprojResolveAssemblyReference.cache
+C:\Users\v-kobatt\Source\Repos\TestApp\FabrikamFiberService\FabrikamFiberMobileTest\obj\Debug\FabrikamFiberMobileTest.csproj.CoreCompileInputs.cache
