@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\FabrikamFiberService",
+    "\\HierarchialTest"
   ],
+  "SelectedNode": "\\HierarchialTest\\CodedUITestProject17.sln",
   "PreviewInSolutionExplorer": false
 }
