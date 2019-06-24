@@ -1,0 +1,15 @@
+C:\Users\v-kobatt\source\repos\Abort1\Abort1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\v-kobatt\source\repos\Abort1\Abort1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\v-kobatt\source\repos\Abort1\Abort1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\v-kobatt\source\repos\Abort1\Abort1\bin\Debug\Abort1.dll
+C:\Users\v-kobatt\source\repos\Abort1\Abort1\bin\Debug\Abort1.pdb
+C:\Users\v-kobatt\source\repos\Abort1\Abort1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\v-kobatt\source\repos\Abort1\Abort1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\v-kobatt\source\repos\Abort1\Abort1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\v-kobatt\source\repos\Abort1\Abort1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\v-kobatt\source\repos\Abort1\Abort1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\v-kobatt\source\repos\Abort1\Abort1\obj\Debug\Abort1.csprojAssemblyReference.cache
+C:\Users\v-kobatt\source\repos\Abort1\Abort1\obj\Debug\Abort1.csproj.CoreCompileInputs.cache
+C:\Users\v-kobatt\source\repos\Abort1\Abort1\obj\Debug\Abort1.csproj.CopyComplete
+C:\Users\v-kobatt\source\repos\Abort1\Abort1\obj\Debug\Abort1.dll
+C:\Users\v-kobatt\source\repos\Abort1\Abort1\obj\Debug\Abort1.pdb
