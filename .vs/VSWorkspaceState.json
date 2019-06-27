@@ -1,9 +1,11 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Aborted",
+    "\\Aborted\\Aborted",
     "\\FabrikamFiberService",
     "\\HierarchialTest"
   ],
-  "SelectedNode": "\\HierarchialTest\\CodedUITestProject17.sln",
+  "SelectedNode": "\\Aborted\\Aborted\\UnitTest1.cs",
   "PreviewInSolutionExplorer": false
 }
