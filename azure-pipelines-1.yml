@@ -1,0 +1,60 @@
+# Starter pipeline
+# Start with a minimal pipeline that you can customize to build and deploy your code.
+# Add steps that build, run tests, deploy, and more:
+# https://aka.ms/yaml
+
+variables:
+  solution: '**/*.sln'
+  buildPlatform: 'Any CPU'
+  buildConfiguration: 'Release'
+
+stages:
+- stage: Build
+  displayName: Build
+  jobs:  
+  - job: Build
+    displayName: Build job
+    pool:
+      name: default
+    steps:
+
+      - script: echo "L0 Tests"
+        displayName: L0 tests
+
+      - script: echo "L1 Tests"
+        displayName: L0 tests
+
+      - script: echo "Publish test results"
+        displayName: Publish test results
+
+      - script: echo "Update artifacts"
+        displayName: Update artifacts
+
+      - script: echo "Publish to artifact services"
+        displayName: Publish to artifact services
+
+- stage: Staging
+  displayName: Staging
+  dependsOn: [Build]
+  jobs:
+  - job: Staging
+    displayName: Deploy to kubernetes
+    pool:
+      name: default
+    steps:
+    - checkout: none
+    - script: ech "Deploy project"
+      displayName: Deploy
+
+- stage: Prod
+  displayName: Prod
+  dependsOn: [Staging]
+  jobs:
+  - job: Deploy
+    displayName: Deploy to kubernetes
+    pool:
+      name: default
+    steps:
+    - checkout: none
+    - script: ech "Deploy project"
+      displayName: Deploy
